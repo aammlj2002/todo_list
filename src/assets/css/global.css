@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+body{
+    background-color: #bbdfff;
+}
+.container{
+    width: 600px;
+    margin: 20px auto;
+    min-height:90vh;
+    min-height: 90vh;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #00000046;
+    padding: 0 30px;
+}
+*:focus{
+    outline: none;
+}
